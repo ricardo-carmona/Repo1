@@ -1,5 +1,6 @@
-#Hello World!
-##This wasn't as easy as I thought
+##This is a markdown file
+
+###This wasn't as easy as I thought
 
 The "+" button to add a file was very hard to find and I ended up creating a .Rmd first, then noticed they are not the same
 
