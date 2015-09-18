@@ -4,3 +4,9 @@
 :trident:
 
 :red_car:
+
+:six:
+
+:crown:
+
+:sushi:
