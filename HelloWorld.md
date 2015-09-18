@@ -6,11 +6,11 @@ The "+" button to add a file was very hard to find and I ended up creating a .Rm
 
 I am trying some markdown syntax features:
 
-*Bullet points
+* Bullet points
 
-*_Italics_ using asteriscs before and after the target word
+* _Italics_ using asteriscs before and after the target word
 
-*__Bold__ using double asteriscs or underscores
+* __Bold__ using double asteriscs or underscores
 
 also
 
